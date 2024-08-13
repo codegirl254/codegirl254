@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Analysis and visualization <br>🎯 Goals: Solve global challenges using code<br>🎲 Fun fact: I enjoy debugging</p>
+<p align="left">✨ I am a Data Analyst <br>🎯 I enjoy creating meaning full insights from data</p>
 
 ###
 
